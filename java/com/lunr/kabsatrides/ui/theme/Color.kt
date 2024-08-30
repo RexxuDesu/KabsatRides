@@ -1,4 +1,4 @@
-package com.lunr.kabsatrides3.ui.theme
+package com.lunr.kabsatrides.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
