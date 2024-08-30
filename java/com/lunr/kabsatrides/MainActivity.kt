@@ -1,4 +1,4 @@
-package com.lunr.kabsatrides3
+package com.lunr.kabsatrides
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -6,12 +6,12 @@ import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
-import androidx.compose.material3.Scaffold
-import androidx.compose.material3.Text
+import androidx.compose.material.Scaffold
+import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.lunr.kabsatrides3.ui.theme.KabsatRides3Theme
+import com.lunr.kabsatrides.ui.theme.KabsatRidesTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -41,7 +41,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
-    KabsatRides3Theme {
+    KabsatRidesTheme {
         Greeting("Android")
     }
 }
