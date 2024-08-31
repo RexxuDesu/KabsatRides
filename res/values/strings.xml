@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">LunR Prototype</string>
     <string name="message_001">Welcome</string>
+    <string name="message_002">Hello User</string>
     <string name="buttonmsg_001">Lets start!</string>
+    <string name="buttonmsg_002">Lets start!</string>
 </resources>
