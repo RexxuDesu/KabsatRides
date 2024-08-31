@@ -1,4 +1,4 @@
-package com.lunr.myapplication
+package com.lunr.kabsatrides
 
 import android.os.Bundle
 import android.widget.Button
