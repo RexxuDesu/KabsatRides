@@ -2,6 +2,10 @@
   <a href="https://github.com/RexxuDesu/KabsatRides"><img src="https://github.com/RexxuDesu/KabsatRides/blob/main/kabsatrides_logo.png" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/RexxuDesu"><img src="https://github.com/RexxuDesu/KabsatRides/blob/main/pic1.svg"></a>
+  <a href="https://github.com/B33trust"><img src=""></a>
+
 <center>
     <h1 align="center">Kabsat Rides</h1>
     <p align="center">
