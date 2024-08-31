@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RexxuDesu"><img src="https://raw.githubusercontent.com/RexxuDesu/KabsatRides/main/pic1.png"></a>
+  <a href="https://github.com/RexxuDesu"><img src="https://raw.githubusercontent.com/RexxuDesu/KabsatRides/main/pic1.svg"></a>
   <a href="https://github.com/B33trust"><img src="https://github.com/RexxuDesu/KabsatRides/blob/main/pic2.png"></a>
 
 <center>
