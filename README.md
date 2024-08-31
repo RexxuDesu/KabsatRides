@@ -5,7 +5,7 @@
 <center>
     <h1 align="center">Kabsat Rides</h1>
     <p align="center">
-        <strong>Latest supported version:</strong> 1.2.45.454.gc16ec9f6
+        Currently in development.
     </p> 
 </center>
     
